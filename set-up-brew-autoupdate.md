@@ -1,6 +1,6 @@
 # Setting up autoupdate with Homebrew
 
-The below commads are used to install the autoupdate extension for Homebrew
+The below commands are used to install the autoupdate extension for Homebrew
 
 ```bash
 brew tap homebrew/autoupdate
